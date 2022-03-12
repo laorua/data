@@ -3,27 +3,27 @@
   "EVs": [
     {
       "Value": "https://prod-06.canadacentral.logic.azure.com:443/workflows/c19e30bf56e445ce93b2e2a5f55d0752/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=9wn-MtvlTzgMajrtr5jO7pvcuRSjEVpn5n9fUW6dzsI",
-      "Schema Name ": "2D5C6CB2-4317-4294-8735-1707ED047EB0 "
+      "Schema Name": "2D5C6CB2-4317-4294-8735-1707ED047EB0"
     },
     {
       "Value": "https://prod-19.canadacentral.logic.azure.com:443/workflows/142254d0f0da40f3b4c6125b0e2f6be0/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=AUpHZ34U7mtzKT7FeKgERz_JToKcomXUnbN3RwXIkNo",
-      "Schema Name ": "CC830418-F929-4DC7-BF1F-F985AC28C13B "
+      "Schema Name": "CC830418-F929-4DC7-BF1F-F985AC28C13B"
     },
     {
       "Value": "https://prod-19.canadacentral.logic.azure.com:443/workflows/3408344c444a49ceb89b2e800659e428/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=VJB8j6TbYxmZimO9ZITJmVPuK1a5gInQ8I-kEhRF9dQ",
-      "Schema Name ": "B697957A-3FE6-41EF-8AC6-24CF31BB8B63 "
+      "Schema Name": "B697957A-3FE6-41EF-8AC6-24CF31BB8B63"
     },
     {
       "Value": "https://prod-28.canadacentral.logic.azure.com:443/workflows/b1023a913cb0416496055d2ce914a666/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=oJUSsCqucWrfhCMVMCDhMm8KTr5HJOsNmTZzb7qiows",
-      "Schema Name ": "669D8FF7-81AC-4706-854B-8A7B8B7A75E4 "
+      "Schema Name": "669D8FF7-81AC-4706-854B-8A7B8B7A75E4"
     },
     {
       "Value": "https://prod-03.canadacentral.logic.azure.com:443/workflows/1867c39929f2463f94ab3ef6d9224277/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=Oele6Nlk0dPeesxbdIbMokEHWhe-o4Z5XFBlfgD5hmI",
-      "Schema Name ": "28E0F7AB-9610-4229-A107-F8C12BB30106 "
+      "Schema Name": "28E0F7AB-9610-4229-A107-F8C12BB30106"
     },
     {
       "Value": "https://prod-04.canadacentral.logic.azure.com:443/workflows/4915cf8665044a6e8c88f42e5b1aee3b/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=wGiSvwQ3bOqghlTqFo62v9SBsEysmx86z9b05j4vunU",
-      "Schema Name ": "0522EA62-FF58-44B1-9BF0-AEB507D78ED2 "
+      "Schema Name": "0522EA62-FF58-44B1-9BF0-AEB507D78ED2"
     }
   ]
 }
